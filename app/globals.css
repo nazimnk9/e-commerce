@@ -1,0 +1,100 @@
+/* ------------------------------------------------------------------
+   Small glue rules for running the original Multikart theme inside
+   Next.js. Everything visual comes from /assets/css/style.css.
+------------------------------------------------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* keep the theme skeleton from blocking clicks while it fades out */
+.loader_skeleton {
+  pointer-events: none;
+}
+
+/* Next renders the layout inside <body>; the theme footer needs a clean
+   stacking context after an extracted page that ends with floats. */
+main {
+  display: block;
+}
+
+/* extracted theme pages sometimes contain inline scripts inside anchors */
+a[href="javascript:void(0)"] {
+  cursor: pointer;
+}
+
+/* the theme uses .tap-top with display:none until jQuery shows it */
+.tap-top {
+  z-index: 9;
+}
+
+/* mobile menu: menu.js injects the drawer, make sure it sits above Next */
+.sidebar-overlay,
+.mobile-menu {
+  z-index: 999 !important;
+}
+
+/* allow bootstrap modals/offcanvas to win over the fixed header */
+.modal-backdrop {
+  z-index: 1040;
+}
+
+.modal {
+  z-index: 1050;
+}
+
+.offcanvas {
+  z-index: 1055;
+}
+
+/* Extracted theme content should never inherit Next's default focus ring */
+.theme-page :focus-visible {
+  outline: none;
+}
+
+/* ThemeForest preview promo badge (matches the live preview) */
+.mk-buy-badge {
+  position: fixed;
+  right: 16px;
+  bottom: 96px;
+  z-index: 8;
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 4px;
+  background: linear-gradient(135deg, var(--theme-color), var(--theme-color2));
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.mk-buy-badge:hover {
+  color: #fff;
+  opacity: 0.92;
+}
+
+@media (max-width: 575px) {
+  .mk-buy-badge {
+    display: none;
+  }
+}
+
+/* keep the theme customizer above the sticky header */
+.mk-theme-settings .setting-sidebar {
+  z-index: 11;
+}
+
+.mk-theme-settings .setting-box {
+  z-index: 1056;
+}

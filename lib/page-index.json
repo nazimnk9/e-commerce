@@ -1,0 +1,637 @@
+{
+  "404": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "404.html"
+  },
+  "about": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "about-page.html"
+  },
+  "bags": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-3",
+    "file": "bags.html"
+  },
+  "beauty": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-3",
+    "file": "beauty.html"
+  },
+  "become-vendor": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "become-vendor.html"
+  },
+  "bicycle": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-37 bg_cls",
+    "file": "bicycle.html"
+  },
+  "blog-no-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "blog(no-sidebar).html"
+  },
+  "blog-right-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "blog(right-sidebar).html"
+  },
+  "blog-details": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "blog-details.html"
+  },
+  "blog": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "blog-page.html"
+  },
+  "books": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-21",
+    "file": "books.html"
+  },
+  "cart": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "cart.html"
+  },
+  "category-page-4-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(4-grid).html"
+  },
+  "category-page-full-width": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(full-width).html"
+  },
+  "category-page-list-view": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(list-view).html"
+  },
+  "category-page-metro": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(metro).html"
+  },
+  "category-page-modern": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(modern).html"
+  },
+  "category-page-no-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(no-sidebar).html"
+  },
+  "category-page-right": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(right).html"
+  },
+  "category-page-sidebar-popup": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(sidebar-popup).html"
+  },
+  "category-page-top-filter": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(top-filter).html"
+  },
+  "category-page-vegetables": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "mulish-font",
+    "file": "category-page(vegetables).html"
+  },
+  "shop": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page.html"
+  },
+  "checkout": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "checkout.html"
+  },
+  "christmas": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "christmas theme-color-37",
+    "file": "christmas.html"
+  },
+  "collection": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "collection.html"
+  },
+  "coming-soon": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "coming-soon.html"
+  },
+  "compare-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "compare-2.html"
+  },
+  "compare": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "compare.html"
+  },
+  "contact": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "contact.html"
+  },
+  "dashboard": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "dashboard.html"
+  },
+  "electronic-1": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-7 overflow-auto",
+    "file": "electronic-1.html"
+  },
+  "electronic-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-9",
+    "file": "electronic-2.html"
+  },
+  "electronic-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-23",
+    "file": "electronic-3.html"
+  },
+  "elements": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "document theme-color-1",
+    "file": "elements.html"
+  },
+  "faq": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "faq.html"
+  },
+  "fashion-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-12",
+    "file": "fashion-2.html"
+  },
+  "fashion-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "box-layout-body theme-color-33",
+    "file": "fashion-3.html"
+  },
+  "fashion-4": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-18",
+    "file": "fashion-4.html"
+  },
+  "fashion-5": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-20",
+    "file": "fashion-5.html"
+  },
+  "fashion-6": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-24",
+    "file": "fashion-6.html"
+  },
+  "fashion-7": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-25",
+    "file": "fashion-7.html"
+  },
+  "flower": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-34",
+    "file": "flower.html"
+  },
+  "forget-password": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "forget_pwd.html"
+  },
+  "full-page": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-6",
+    "file": "full-page.html"
+  },
+  "furniture-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-5",
+    "file": "furniture-2.html"
+  },
+  "furniture-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-5 dark dark-demo",
+    "file": "furniture-3.html"
+  },
+  "furniture": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-5",
+    "file": "furniture.html"
+  },
+  "game": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "game.html"
+  },
+  "goggles": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-8",
+    "file": "goggles.html"
+  },
+  "grid-2-col": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "grid-2-col.html"
+  },
+  "grid-3-col": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "grid-3-col.html"
+  },
+  "grid-4-col": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "grid-4-col.html"
+  },
+  "gym-product": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-13",
+    "file": "gym-product.html"
+  },
+  "jewellery-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-5",
+    "file": "jewellery-2.html"
+  },
+  "jewellery-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-5",
+    "file": "jewellery-3.html"
+  },
+  "jewellery": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "bg_cls theme-color-16",
+    "file": "jewellery.html"
+  },
+  "kids": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-34",
+    "file": "kids.html"
+  },
+  "left-sidebar-demo": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "left_sidebar-demo.html"
+  },
+  "light": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "light.html"
+  },
+  "login": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "login.html"
+  },
+  "lookbook-demo": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "lookbook-demo.html"
+  },
+  "lookbook": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "lookbook.html"
+  },
+  "marijuana": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-14 overflow-auto",
+    "file": "marijuana.html"
+  },
+  "marketplace-demo-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-27",
+    "file": "marketplace-demo-2.html"
+  },
+  "marketplace-demo-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-28",
+    "file": "marketplace-demo-3.html"
+  },
+  "marketplace-demo-4": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-27",
+    "file": "marketplace-demo-4.html"
+  },
+  "marketplace-demo": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-19",
+    "file": "marketplace-demo.html"
+  },
+  "masonary-2-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "masonary-2-grid.html"
+  },
+  "masonary-3-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "masonary-3-grid.html"
+  },
+  "masonary-4-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "masonary-4-grid.html"
+  },
+  "masonary-fullwidth": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "masonary-fullwidth.html"
+  },
+  "medical": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-22",
+    "file": "medical.html"
+  },
+  "metro": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-18",
+    "file": "metro.html"
+  },
+  "nft": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-32",
+    "file": "nft.html"
+  },
+  "nursery": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "layout-20 theme-color-11 overflow-auto",
+    "file": "nursery.html"
+  },
+  "order-success": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "order-success.html"
+  },
+  "order-tracking": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "order-tracking.html"
+  },
+  "parallax": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-6 overflow-auto",
+    "file": "parallax.html"
+  },
+  "perfume": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-26 section-white",
+    "file": "perfume.html"
+  },
+  "pets": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-35",
+    "file": "pets.html"
+  },
+  "product-page-3-column": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(3-column).html"
+  },
+  "product-page-4-image": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(4-image).html"
+  },
+  "product-page-accordian": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(accordian).html"
+  },
+  "product-page-bundle": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(bundle).html"
+  },
+  "product-page-image-outside": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(image-outside).html"
+  },
+  "product-page-image-swatch": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(image-swatch).html"
+  },
+  "product-page-left-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(left-sidebar).html"
+  },
+  "product-page-right-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(right-sidebar).html"
+  },
+  "product-page-sticky": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(sticky).html"
+  },
+  "product-page-thumbnail": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(thumbnail).html"
+  },
+  "product-page-vertical-tab": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(vertical-tab).html"
+  },
+  "product-page-video-thumbnail": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(video-thumbnail).html"
+  },
+  "profile": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "profile.html"
+  },
+  "register": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "register.html"
+  },
+  "review": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "review.html"
+  },
+  "search": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "search.html"
+  },
+  "shoes": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-10",
+    "file": "shoes.html"
+  },
+  "sitemap": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "sitemap.html"
+  },
+  "tools": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "tools-bg theme-color-1",
+    "file": "tools.html"
+  },
+  "vegetables-2": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-11",
+    "file": "vegetables-2.html"
+  },
+  "vegetables-3": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-11",
+    "file": "vegetables-3.html"
+  },
+  "vegetables-4": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-30 mulish-font",
+    "file": "vegetables-4.html"
+  },
+  "vegetables-5": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-31 mulish-font",
+    "file": "vegetables-5.html"
+  },
+  "vegetables": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-36",
+    "file": "vegetables.html"
+  },
+  "vendor-dashboard": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "vendor-dashboard.html"
+  },
+  "vendor-profile": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "vendor-profile.html"
+  },
+  "video-slider": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-17",
+    "file": "video-slider.html"
+  },
+  "video": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "video.html"
+  },
+  "watch": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-4",
+    "file": "watch.html"
+  },
+  "wishlist": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "wishlist.html"
+  },
+  "yoga": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-2 section-white",
+    "file": "yoga.html"
+  },
+  "category-page-infinite-scroll": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page.html"
+  },
+  "product-page-3-col-left": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(3-column).html"
+  },
+  "product-page-3-col-right": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(3-column).html"
+  },
+  "product-page-right-image": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(thumbnail).html"
+  },
+  "category-page-3-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(4-grid).html"
+  },
+  "category-page-2-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(4-grid).html"
+  },
+  "category-page-6-grid": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "category-page(4-grid).html"
+  },
+  "product-page-left-image": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(thumbnail).html"
+  },
+  "product-page-no-sidebar": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(accordian).html"
+  },
+  "product-page-slider": {
+    "title": "Multikart - Multi-purpose E-commerce Html Template",
+    "bodyClass": "theme-color-1",
+    "file": "product-page(accordian).html"
+  },
+  "invoice-1": {
+    "title": "Invoice 1 - Multikart",
+    "bodyClass": "theme-color-29",
+    "file": "invoice-1.html"
+  },
+  "invoice-2": {
+    "title": "Invoice 2 - Multikart",
+    "bodyClass": "theme-color-29",
+    "file": "invoice-2.html"
+  },
+  "invoice-3": {
+    "title": "Invoice 3 - Multikart",
+    "bodyClass": "theme-color-29",
+    "file": "invoice-3.html"
+  },
+  "invoice-4": {
+    "title": "Invoice 4 - Multikart",
+    "bodyClass": "theme-color-29",
+    "file": "invoice-4.html"
+  },
+  "invoice-5": {
+    "title": "Invoice 5 - Multikart",
+    "bodyClass": "theme-color-29",
+    "file": "invoice-5.html"
+  }
+}
